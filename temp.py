@@ -1,4 +1,4 @@
-console.log("hello world")
+console.log("hello world") "file type: js"
 
 console.log("hello world")
 console.log("hello world")
