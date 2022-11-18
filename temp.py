@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 print("hello world")
+=======
+"file type py || js"
+>>>>>>> new-branch
 
 print("hello world")
 print("hello world")
